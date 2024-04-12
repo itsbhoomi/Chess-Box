@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: darkgreen;
+
+}
+
+.white {
+    width: 190px;
+    height: 190px;
+    background-color: white;
+
+}
+
+
+.black {
+    width: 190px;
+    height: 190px;
+    background-color: black;
+
+}
+
+.parent {
+
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+
+.parent2 {
+
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
